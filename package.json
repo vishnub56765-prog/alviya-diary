@@ -1,0 +1,22 @@
+{
+  "name": "alviya-dairy",
+  "version": "2.0.0",
+  "description": "ALVIYA DAIRY - Production Milk Collection, Farmer Billing and Dairy Center Management System",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Production static assets ready for deployment'"
+  },
+  "keywords": [
+    "dairy",
+    "milk-collection",
+    "billing",
+    "farmers",
+    "supabase",
+    "alviya"
+  ],
+  "author": "ALVIYA DAIRY",
+  "license": "UNLICENSED"
+}

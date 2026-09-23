@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Local Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary / Scratch files
+scratch/
+*.log
